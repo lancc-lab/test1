@@ -1,0 +1,4 @@
+# Created by cloud-init v. 19.3-41-gc4735dd3-0ubuntu1~18.04.1 on Mon, 06 Apr 2020 17:01:41 +0000
+
+# User rules for fadmin
+fadmin ALL=(ALL) NOPASSWD:ALL
